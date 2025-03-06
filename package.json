@@ -1,0 +1,23 @@
+{
+  "name": "web_server_t1_express",
+  "version": "1.0.0",
+  "description": "Servidor web hecho con Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeRamirez6700/web_server_t1_express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JorgeRamirez6700/web_server_t1_express/issues"
+  },
+  "homepage": "https://github.com/JorgeRamirez6700/web_server_t1_express#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
